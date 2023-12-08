@@ -2,7 +2,7 @@
 My First Repository
 
 ## My Favorite Movies/Series
-** Movies **
+**Movies**
 1. Oppenheimer
 2. Pacific Rim
 3. Terminator
